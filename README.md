@@ -17,7 +17,7 @@
 
 Hi, I'm Mario, a beginner web developer from Spain. I'm currently studying Web Application Development in Seville. Besides programming, I enjoy eating good food and traveling.
 
-  <img align="right" alt="GIF" src="https://media.tenor.com/i4-E3hBzUV8AAAAM/meme-life.gif" width="200" height="200" />
+  <img align="right" alt="GIF" src="https://media.tenor.com/i4-E3hBzUV8AAAAM/meme-life.gif" width="200" height="300" />
   
 **Talking about Personal Stuffs:**
 
