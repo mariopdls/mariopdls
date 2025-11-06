@@ -1,4 +1,4 @@
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/4ac1edad-a1d7-46f9-928d-6df72828d863" /><img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/4dcc5e4b-bff3-4981-89f4-7caa3faa86ca" />### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/4ac1edad-a1d7-46f9-928d-6df72828d863" /><img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/4dcc5e4b-bff3-4981-89f4-7caa3faa86ca" />### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/qUbApEc">
   <img align="left" alt="Mario's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
