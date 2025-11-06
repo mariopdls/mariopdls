@@ -12,11 +12,12 @@
   <img align="left" alt="Mario's Reddit" width="22px" src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" />
 </a>
 
-<br />
+<br>
+<br>
 
 Hi, I'm Mario, a beginner web developer from Spain. I'm currently studying Web Application Development in Seville. Besides programming, I enjoy eating good food and traveling.
 
-  <img align="right" alt="GIF" src="https://media.tenor.com/i4-E3hBzUV8AAAAM/meme-life.gif" width="300" height="200" />
+  <img align="right" alt="GIF" src="https://media.tenor.com/i4-E3hBzUV8AAAAM/meme-life.gif" width="200" height="200" />
   
 **Talking about Personal Stuffs:**
 
