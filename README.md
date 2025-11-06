@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/marioporrita">
-  <img align="left" alt="Mario" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Mario" | Twitter" width="22px" src="https://img.freepik.com/vector-premium/x-nuevo-logotipo-twitter_469489-977.jpg?semt=ais_hybrid&w=740&q=80" />
 </a>
 <a href="https://www.linkedin.com/in/marioporrasdelossantos/">
   <img align="left" alt="Mario's LinkdeIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" />
@@ -30,7 +30,7 @@ Hi, I'm Mario, a beginner web developer from Spain. I'm currently studying Web A
 ```text
 Python                       ████████████▓░░░░░░░░░░░░   50.67 % 
 HTML                         ███████▓░░░░░░░░░░░░░░░░░   31.04 % 
-Git Config   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Git Config                   █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 ```
 <!--END_SECTION:waka-->
 
