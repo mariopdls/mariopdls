@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/marioporrita">
   <img align="left" alt="Mario" | Twitter" width="22px" src="https://img.freepik.com/vector-premium/x-nuevo-logotipo-twitter_469489-977.jpg?semt=ais_hybrid&w=740&q=80" />
 </a>
