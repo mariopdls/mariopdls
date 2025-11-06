@@ -37,5 +37,5 @@ Git Config   36 mins         █░░░░░░░░░░░░░░░░
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mariopdls&show_icons=true&theme=gotham" alt="mariopdls" />
 
