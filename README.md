@@ -27,6 +27,8 @@ Hi, I'm Mario, a beginner web developer from Spain. I'm currently studying Web A
 - 📫 How to reach me: [marioporra9@gmail.com];
 
 <br>
+<br>
+<br>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
