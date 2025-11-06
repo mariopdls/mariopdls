@@ -19,11 +19,11 @@ Hi, I'm Mario, a beginner web developer from Spain. I'm currently studying Web A
 
   <img align="right" alt="GIF" src="https://media.tenor.com/i4-E3hBzUV8AAAAM/meme-life.gif" width="300" height="300" />
   
-**Talking about Personal Stuffs:**
+**About me:**
 
 - 👨🏽‍💻 I’m currently studying Web Development :wink:;
 - 🌱 I’m currently learning a lot of languages; 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I'm happy to help you;
 - 📫 How to reach me: [marioporra9@gmail.com];
 
 <br>
@@ -39,9 +39,3 @@ HTML                         ███████▓░░░░░░░░░
 Git Config                   █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 ```
 <!--END_SECTION:waka-->
-
-<details>
-<summary>📈 My GitHub Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mariopdls&show_icons=true&theme=gotham" alt="mariopdls" />
-
