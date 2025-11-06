@@ -15,7 +15,7 @@
 <br>
 <br>
 
-Hi, I'm Mario, a beginner web developer from Spain. I'm currently studying Web Application Development in Seville. Besides programming, I enjoy eating good food and traveling.
+Hi, I'm Mario, a beginner web developer from Spain. I'm currently studying Web Application Development in Seville. Besides web development, I'm a historian, graduated from the University of Seville.
 
   <img align="right" alt="GIF" src="https://media.tenor.com/i4-E3hBzUV8AAAAM/meme-life.gif" width="300" height="300" />
   
