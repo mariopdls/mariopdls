@@ -34,9 +34,13 @@ Hi, I'm Mario, a beginner web developer from Spain. I'm currently studying Web A
 <!--START_SECTION:waka-->
 ```text
 
-Python                       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░   50.00 %
+Python                       ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░   40.00 %
+  
+HTML                         ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░   20.00 %
 
-HTML                         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░   50.00 %
+MySQL                        ▓▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+  
+Oracle                       ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░   30.00 %
 
 ```
 <!--END_SECTION:waka-->
