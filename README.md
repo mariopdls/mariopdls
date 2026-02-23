@@ -36,7 +36,7 @@ Hi, I'm Mario, a beginner web developer from Spain. I'm currently studying Web A
 
 Java                       ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░   40.00 %
   
-HTML & CSS                         ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░   20.00 %
+HTML & CSS                   ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░   20.00 %
 
 MySQL                        ▓▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
   
