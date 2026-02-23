@@ -34,7 +34,7 @@ Hi, I'm Mario, a beginner web developer from Spain. I'm currently studying Web A
 <!--START_SECTION:waka-->
 ```text
 
-Java                       ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░   40.00 %
+Java                         ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░   40.00 %
   
 HTML & CSS                   ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░   20.00 %
 
