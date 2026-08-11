@@ -13,6 +13,9 @@
   <a href="mailto:marioporra9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://portfoliomarioporras.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -56,9 +59,11 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariopdls&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariopdls&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" width="45%" />
 </p>
+
+> ⚠️ Recuerda cambiar `TU_USUARIO` por tu usuario real de GitHub para que las stats se muestren correctamente.
 
 ---
 
