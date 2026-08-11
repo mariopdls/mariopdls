@@ -56,11 +56,9 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mariopdls&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariopdls&layout=compact&theme=radical" width="45%" />
 </p>
-
-> ⚠️ Recuerda cambiar `TU_USUARIO` por tu usuario real de GitHub para que las stats se muestren correctamente.
 
 ---
 
