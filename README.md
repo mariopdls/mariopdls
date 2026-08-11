@@ -56,17 +56,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariopdls&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariopdls&layout=compact&theme=radical" width="45%" />
-</p>
-
-> ⚠️ Note: the stats above use the free github-readme-stats server. If they don't load, check whether that service is paused — see prior notes on deploying your own instance.
-
----
-
 ### ⏱️ This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
