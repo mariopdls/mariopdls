@@ -3,7 +3,7 @@
   <img align="left" alt="Mario" | Twitter" width="22px" src="https://img.freepik.com/vector-premium/x-nuevo-logotipo-twitter_469489-977.jpg?semt=ais_hybrid&w=740&q=80" />
 </a>
 <a href="https://www.linkedin.com/in/marioporrasdelossantos/">
-  <img align="left" alt="Mario's LinkdeIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" />
+  <img align="left" alt="Mario's LinkdeIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" />
 </a>
 <a href="https://www.instagram.com/marioporrita/">
   <img align="left" alt="Mario's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />
