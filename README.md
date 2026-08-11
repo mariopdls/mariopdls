@@ -5,9 +5,6 @@
 <a href="https://www.linkedin.com/in/marioporrasdelossantos/">
   <img align="left" alt="Mario's LinkdeIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" />
 </a>
-<a href="https://www.instagram.com/marioporrita/">
-  <img align="left" alt="Mario's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />
-</a>
 <a href="https://www.reddit.com/user/Informal_Respect_113/">
   <img align="left" alt="Mario's Reddit" width="22px" src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" />
 </a>
