@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Mario <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi there! I'm Mario <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
   <a href="https://twitter.com/marioporrita">
@@ -20,19 +20,19 @@
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 About me
 
-- 🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en Sevilla
-- 📜 Graduado en **Historia** por la Universidad de Sevilla
-- 💼 Actualmente de prácticas en el equipo de **QA** de **CaixaBank Tech**
-- 🔍 Quiero especializarme en **Quality Assurance (QA)** — testing, automatización y aseguramiento de calidad de software
-- 🌱 Aprendiendo **React** y **TypeScript**
-- 💬 Pregúntame lo que quieras, encantado de ayudar
-- 📫 Contacto: **marioporra9@gmail.com**
+- 🎓 Web Application Development (DAW) student in Seville, Spain
+- 📜 History graduate from the University of Seville
+- 💼 Currently interning with the **QA** team at **CaixaBank Tech**
+- 🔍 Looking to specialize in **Quality Assurance (QA)** — testing, automation, and software quality
+- 🌱 Learning **React** and **TypeScript**
+- 💬 Ask me anything, happy to help
+- 📫 Reach me at: **marioporra9@gmail.com**
 
 ---
 
-### 🛠️ Stack tecnológico
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🎯 Enfoque QA
+### 🎯 QA Focus
 
 <p align="left">
   <img src="https://img.shields.io/badge/Testing-FF6C37?style=for-the-badge&logo=testinglibrary&logoColor=white" />
@@ -56,18 +56,18 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mariopdls&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariopdls&layout=compact&theme=radical" width="45%" />
 </p>
 
-> ⚠️ Recuerda cambiar `TU_USUARIO` por tu usuario real de GitHub para que las stats se muestren correctamente.
+> ⚠️ Note: the stats above use the free github-readme-stats server. If they don't load, check whether that service is paused — see prior notes on deploying your own instance.
 
 ---
 
-### ⏱️ Esta semana programando
+### ⏱️ This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
 ```text
